@@ -1,8 +1,9 @@
 namespace livraria.obj.Debug
 {
-    public class materiais
+    public class material
+    
     {
-        public materiais(int cod, string assunto, string titulo)
+        public abstract material(int cod, string assunto, string titulo)
         {
             this.cod = cod;
             this.assunto = assunto;
@@ -10,6 +11,7 @@ namespace livraria.obj.Debug
 
         }
         public int cod { get; set; }
+        
         public string assunto { get; set; }
         public string titulo { get; set; }
     }

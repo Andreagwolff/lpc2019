@@ -1,8 +1,8 @@
 namespace livraria.obj
 {
-    public class usuarios
+    public class usuario
     {
-        public usuarios(string nome, string local, int telefone, string senha)
+        public usuario(string nome, string local, int telefone, string senha)
         {
             this.nome = nome;
             this.local = local;

@@ -2,9 +2,9 @@ using System;
 
 namespace livraria.obj
 {
-    public class emprestimos
+    public class emprestimo
     {
-        public emprestimos(DateTime dataEmprestimo, DateTime dataRetorno, int atraso)
+        public emprestimo(DateTime dataEmprestimo, DateTime dataRetorno, int atraso)
         {
             this.dataEmprestimo = dataEmprestimo;
             this.dataRetorno = dataRetorno;

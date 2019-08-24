@@ -1,8 +1,8 @@
 namespace livraria.obj
 {
-    public class revistas
+    public class revista
     {
-        public revistas(string colecao, string editora)
+        public revista(string colecao, string editora)
         {
             this.colecao = colecao;
             this.editora = editora;
@@ -11,6 +11,6 @@ namespace livraria.obj
         public string colecao { get; set; }
         public string editora { get; set; }
 
-        public void mostrarDetalhes() => this.colecao = this.editora;
+        
     }
 }
