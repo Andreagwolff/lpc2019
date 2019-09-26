@@ -58,7 +58,7 @@
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[2.2.4, )"
             }
           },
           "imports": [
