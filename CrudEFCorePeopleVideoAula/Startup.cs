@@ -16,11 +16,13 @@ namespace CrudEFCorePeopleVideoAula
 {
     public class Startup
     {
+        
+
         public Startup(IConfiguration configuration)
         {
-            Configuration = configuration;
-        }
+            this.Configuration = configuration;
 
+        }
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
@@ -35,7 +37,8 @@ namespace CrudEFCorePeopleVideoAula
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-            services.AddDbContext<DataContext>(x=>x. UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<DataContext>(x => x.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddScoped<IPersonRepository.PersonRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

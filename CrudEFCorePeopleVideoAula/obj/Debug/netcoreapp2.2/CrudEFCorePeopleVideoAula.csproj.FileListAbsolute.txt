@@ -28,3 +28,6 @@ C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\CrudEFCor
 C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\CrudEFCorePeopleVideoAula\obj\Debug\netcoreapp2.2\CrudEFCorePeopleVideoAula.dll
 C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\CrudEFCorePeopleVideoAula\obj\Debug\netcoreapp2.2\CrudEFCorePeopleVideoAula.pdb
 C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\CrudEFCorePeopleVideoAula\obj\Debug\netcoreapp2.2\CrudEFCorePeopleVideoAula.csproj.CopyComplete
+c:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\CrudEFCorePeopleVideoAula\obj\Debug\netcoreapp2.2\Razor\Views\People\Create.g.cshtml.cs
+c:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\CrudEFCorePeopleVideoAula\obj\Debug\netcoreapp2.2\Razor\Views\People\Edit.g.cshtml.cs
+c:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\CrudEFCorePeopleVideoAula\obj\Debug\netcoreapp2.2\Razor\Views\People\index.g.cshtml.cs
