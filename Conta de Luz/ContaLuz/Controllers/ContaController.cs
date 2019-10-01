@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MvcDemo.Models;
 
-namespace MvcDemo.Controllers
+namespace ContaLuz.Controllers
 {
     public class ContaController : Controller
     {
@@ -39,17 +39,11 @@ namespace MvcDemo.Controllers
                     contas = contas.OrderBy(est => est.DataDeLeitura);
                     break;
             }
-            //return View(await _context.Estudantes.ToListAsync());
+            
             return View(await contas.AsNoTracking().ToListAsync());
         }
 
-        // GET: Conta
-    /*    public async Task<IActionResult> Index()
-        {
-            return View(await _context.Conta.ToListAsync());
-        }
-    */
-        // GET: Conta/Details/5
+      
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -67,7 +61,7 @@ namespace MvcDemo.Controllers
             return View(contaDeLuz);
         }
 
-        // GET: Conta/Create
+        
         public IActionResult Create()
         {
             return View();
@@ -87,7 +81,7 @@ namespace MvcDemo.Controllers
             return View(contaDeLuz);
         }
 
-        // GET: Conta/Edit/5
+        
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -136,7 +130,7 @@ namespace MvcDemo.Controllers
             return View(contaDeLuz);
         }
 
-        // GET: Conta/Delete/5
+       
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -154,7 +148,7 @@ namespace MvcDemo.Controllers
             return View(contaDeLuz);
         }
 
-        // POST: Conta/Delete/5
+        
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
