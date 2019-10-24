@@ -1,0 +1,6 @@
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaLuzLibraries\CrudEFCorePeople\obj\Debug\netcoreapp2.2\CrudEFCorePeople.csprojAssemblyReference.cache
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaLuzLibraries\CrudEFCorePeople\obj\Debug\netcoreapp2.2\CrudEFCorePeople.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaLuzLibraries\CrudEFCorePeople\obj\Debug\netcoreapp2.2\CrudEFCorePeople.RazorAssemblyInfo.cache
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaLuzLibraries\CrudEFCorePeople\obj\Debug\netcoreapp2.2\CrudEFCorePeople.RazorAssemblyInfo.cs
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaLuzLibraries\CrudEFCorePeople\obj\Debug\netcoreapp2.2\CrudEFCorePeople.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaLuzLibraries\CrudEFCorePeople\obj\Debug\netcoreapp2.2\CrudEFCorePeople.AssemblyInfo.cs

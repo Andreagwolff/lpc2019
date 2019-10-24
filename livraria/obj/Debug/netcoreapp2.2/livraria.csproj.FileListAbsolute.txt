@@ -1,0 +1,11 @@
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\livraria\bin\Debug\netcoreapp2.2\livraria.deps.json
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\livraria\bin\Debug\netcoreapp2.2\livraria.runtimeconfig.json
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\livraria\bin\Debug\netcoreapp2.2\livraria.runtimeconfig.dev.json
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\livraria\bin\Debug\netcoreapp2.2\livraria.dll
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\livraria\bin\Debug\netcoreapp2.2\livraria.pdb
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\livraria\obj\Debug\netcoreapp2.2\livraria.csprojAssemblyReference.cache
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\livraria\obj\Debug\netcoreapp2.2\livraria.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\livraria\obj\Debug\netcoreapp2.2\livraria.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\livraria\obj\Debug\netcoreapp2.2\livraria.AssemblyInfo.cs
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\livraria\obj\Debug\netcoreapp2.2\livraria.dll
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\livraria\obj\Debug\netcoreapp2.2\livraria.pdb

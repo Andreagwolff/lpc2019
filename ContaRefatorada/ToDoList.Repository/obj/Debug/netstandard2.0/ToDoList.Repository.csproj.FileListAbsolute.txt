@@ -1,0 +1,24 @@
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/obj/Debug/netstandard2.0/ToDoList.Repository.csprojAssemblyReference.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/obj/Debug/netstandard2.0/ToDoList.Repository.csproj.CoreCompileInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/obj/Debug/netstandard2.0/ToDoList.Repository.AssemblyInfoInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/obj/Debug/netstandard2.0/ToDoList.Repository.AssemblyInfo.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/bin/Debug/netstandard2.0/ToDoList.Repository.deps.json
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/bin/Debug/netstandard2.0/ToDoList.Repository.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/bin/Debug/netstandard2.0/ToDoList.Repository.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/bin/Debug/netstandard2.0/ToDoList.Domain.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/bin/Debug/netstandard2.0/ToDoList.Domain.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/obj/Debug/netstandard2.0/ToDoList.Repository.csproj.CopyComplete
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/obj/Debug/netstandard2.0/ToDoList.Repository.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/obj/Debug/netstandard2.0/ToDoList.Repository.pdb
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaRefatorada\ToDoList.Repository\obj\Debug\netstandard2.0\ToDoList.Repository.dll
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaRefatorada\ToDoList.Repository\obj\Debug\netstandard2.0\ToDoList.Repository.pdb
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaRefatorada\ToDoList.Repository\bin\Debug\netstandard2.0\ToDoList.Repository.deps.json
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaRefatorada\ToDoList.Repository\bin\Debug\netstandard2.0\ToDoList.Repository.dll
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaRefatorada\ToDoList.Repository\bin\Debug\netstandard2.0\ToDoList.Repository.pdb
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaRefatorada\ToDoList.Repository\bin\Debug\netstandard2.0\ToDoList.Domain.dll
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaRefatorada\ToDoList.Repository\bin\Debug\netstandard2.0\ToDoList.Domain.pdb
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaRefatorada\ToDoList.Repository\obj\Debug\netstandard2.0\ToDoList.Repository.csprojAssemblyReference.cache
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaRefatorada\ToDoList.Repository\obj\Debug\netstandard2.0\ToDoList.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaRefatorada\ToDoList.Repository\obj\Debug\netstandard2.0\ToDoList.Repository.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaRefatorada\ToDoList.Repository\obj\Debug\netstandard2.0\ToDoList.Repository.AssemblyInfo.cs
+C:\Users\Andre\Documents\Ulbra\12 Semestre\Linguagem comercial\lpc2019\ContaRefatorada\ToDoList.Repository\obj\Debug\netstandard2.0\ToDoList.Repository.csproj.CopyComplete

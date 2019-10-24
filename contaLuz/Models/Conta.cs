@@ -22,6 +22,9 @@ namespace contaLuz.Models
 
         public DateTime dataLeitura { get; set; }
         public int numeroLeitura { get; set; }
+
+        
+
         public int kwGasto { get; set; }
 
         internal object FindIndex(Func<object, bool> p)

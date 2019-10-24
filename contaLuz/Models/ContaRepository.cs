@@ -23,7 +23,16 @@ namespace contaLuz.Models
         {
             conta.Remove(GetById(numeroLeitura));
         }
-        
+        //maior
+        public void List(){
+            return Conta.OrderByDesending(x=>kwGasto).First();
+            
+        }
+        //menor
+        public void List(){
+            return Conta.OrderDesending(x=>kwGasto).First();
+            
+        }
 
        
         
