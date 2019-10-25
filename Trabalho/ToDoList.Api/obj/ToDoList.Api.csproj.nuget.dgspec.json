@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Api/ToDoList.Api.csproj": {}
+  },
+  "projects": {
+    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Api/ToDoList.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Api/ToDoList.Api.csproj",
+        "projectName": "ToDoList.Api",
+        "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Api/ToDoList.Api.csproj",
+        "packagesPath": "/home/cassio/.nuget/packages/",
+        "outputPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Api/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/cassio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

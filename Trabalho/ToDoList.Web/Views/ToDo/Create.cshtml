@@ -1,0 +1,64 @@
+@model ToDoList.Domain.ToDo
+
+<div class="form-horizontal">
+    <form action="Create" method="Post">
+
+        <div class="form-group">
+            <label>Id</label>
+            <input  class="form-control"
+                    type="text" name="id"/>
+        </div>
+
+        <div class="form-group">
+            <label>Data Leitura</label>
+            <input  class="form-control"
+                    type="text" name="dataLeitura"/>
+        </div>
+
+        <div class="form-group">
+            <label>Numero Leitura</label>
+            <input  class="form-control"
+                    type="text" name="numeroLeitura"/>
+        </div>
+
+        <div class="form-group">
+            <label>KW Gasto</label>
+            <input  class="form-control"
+                    type="text" name="kWGasto"/>
+        </div>
+
+        <div class="form-group">
+            <label>Valor Pagar</label>
+            <input  class="form-control"
+                    type="text" name="valorPagar"/>
+        </div>
+
+        <div class="form-group">
+            <label>Data Pagamento</label>
+            <input  class="form-control"
+                    type="text" name="dataPagamento"/>
+        </div>    
+
+        <div class="form-group">
+            <label>Media Consumo</label>
+            <input  class="form-control"
+                    type="text" name="mediaConsumo"/>
+        </div>    
+
+          
+
+        <div  class="form-group">
+            <label for="type">Tipo</label>
+            <select class="form-control" name="typeToDo.id" required>
+                    <option value="" disabled selected>Selecione a tipo</option>
+                @foreach(var type in ViewBag.TypesToDos ){
+                    <option value="@type.id">@type.id | @type.description</option>
+                }
+            </select>
+        </div>
+
+        <input  class="btn btn-primary" 
+                type="submit" value="Salvar"/>
+
+    </form>
+</div>
